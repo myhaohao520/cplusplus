@@ -1,14 +1,12 @@
 // Name: Jian Hao Tang
 // Date: 01-19-2023
-// Version: 1.0
+// This program calculates the user's pay
 
 
 // Use iostream library for input and output
 // Use namespace std to avoid having to type std::
 #include <iostream>
 using namespace std;
-// This program calculates the user's pay
-
 
 // Create main function
 int main()
