@@ -135,7 +135,7 @@ char findLetterGrade(float Average)
 {
 	// Fill in the code for this function
 	
-	if (Average >= 90.00)									//return A if average is greater than or equal to 90
+	if (Average >= 90.00 && Average <= 100)				//return A if average is greater than or equal to 90
 		return 'A';
 	else if (Average < 90.00 && Average >= 80.00)			//return B if average is less than 90
 		return 'B';
