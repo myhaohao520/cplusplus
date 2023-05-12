@@ -1,4 +1,4 @@
-*
+/*
   Name: Jian Hao Tang
   Date: 05-09-2023
   Program baseball: This program reads in two files, roster and player statistics,
